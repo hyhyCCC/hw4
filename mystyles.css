@@ -1,0 +1,59 @@
+/*
+   Yicheng Huang
+    yicheng_huang@student.uml.edu
+    11/20/2021
+    Get a lot of help from w3school and online sources.
+    This is almost from hw3
+*/
+
+
+.Frow{
+    margin: auto;
+}
+
+.Frow h1 {
+    font-size: 20px;
+    }
+
+h1 {
+    font-size: large;
+    margin-top: 15px; 
+}
+h2 {
+    font-size: medium;
+}
+
+/*for the table*/
+th {
+    width: 5em;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    text-align: right;
+}
+
+td {
+    width: 5em;
+    background-color: white;
+    border: 2px solid black;
+    text-align: right;
+}
+/*.jpg at background*/
+body {
+    background-image: url("math1.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+/*get the table in the center*/
+table {
+    text-align: right;
+    margin: auto;
+}
+
+label.error {
+    color: red;
+}
+
+input.error {
+    color: red;
+} 
